@@ -1,6 +1,6 @@
 {
-  "name": "Es FTR - Usaha Es",
-  "short_name": "Es FTR",
+  "name": "Fatur Shop",
+  "short_name": "Fatur Shop",
   "description": "Catat antar es, pembelian, dan hasil usaha Es FTR.",
   "start_url": "./index.html",
   "scope": "./",
