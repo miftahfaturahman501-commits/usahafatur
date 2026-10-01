@@ -1,8 +1,8 @@
-const CACHE = 'es-ftr-v1'; // naikkan angka ini (v2, v3...) setiap kali kamu update index.html
+const CACHE = 'es-ftr-v2'; // naikkan angka ini (v2, v3...) setiap kali kamu update index.html
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
-  './icons/icon-192.png', './icons/icon-512.png',
-  './icons/maskable-512.png', './icons/apple-touch-icon.png', './icons/favicon-32.png'
+  './icon-192.png', './icon-512.png',
+  './maskable-512.png', './apple-touch-icon.png', './favicon-32.png'
 ];
 
 self.addEventListener('install', e => {
